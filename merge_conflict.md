@@ -8,9 +8,9 @@ git checkout master
 
 On line 2, which currently reads:
 ```
-Workshop exercises and outstanding student questions for JSConf Asia 2014.
+Modified workshop exercises for new incoming Cynder employees.
 ```
-Change the year to "2015".
+Remove the word "Cynder".
 
 #### 3. Get changes from `project` remote
 
@@ -46,14 +46,13 @@ Will show you which file(s) have conflicts.
 Edit the `README.md` file. You'll see something like:
 ```
 <<<<<<< HEAD
-Workshop exercises and outstanding student questions for JSConf Asia 2015.
+Modified workshop exercises for new incoming employees.
 =======
-Workshop exercises and outstanding student questions for JSConf Asia 2013.
+Modified workshop exercises for new incoming Cynder employees.
 >>>>>>> origin/master
 ```
 
-It's up to you to decide what is the correct version that you want to keep (or
-perhaps just change it back to "2014").
+It's up to you to decide what is the correct version that you want to keep.
 
 Save and exit the file once you've cleaned up the conflict.
 
@@ -69,4 +68,3 @@ git commit --verbose
 ```
 It will open your `$EDITOR` editor, eg. vim, with a pre-prepared "merge
 conflict" commit message.
-
