@@ -1,7 +1,7 @@
 
 #### 1. Edit a file
 
-Edit your `student-questions/<your_github_username>-workshop-question.md`, make
+Edit your `student-questions/<your_bitbucket_username>-workshop-question.md`, make
 a change, and quit the file.
 
 #### 2. Check `git status`
