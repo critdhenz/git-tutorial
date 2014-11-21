@@ -1,7 +1,7 @@
 
-Workshop exercises and outstanding student questions for JSConf Asia 2014.
+Modified workshop exercises for new incoming Cynder employees.
 
-[PDF of slides](slides/jsconf_asia_2014_git_github_workshop.pdf)
+[PDF of slides](slides/workshop.pdf)
 
 TODO: Find out why the PDF didn't render!
 
