@@ -3,7 +3,7 @@
 
 The pull request should be from your repository and
 `<your_bitbucket_username>-asks-a-question` branch to Jabo's
-https://bitbucket.org/jbarrozo/git-tutorials repository.
+https://bitbucket.org/cynder/git-tutorial repository.
 
 You create the pull request on Bitbucket in your browser.
 

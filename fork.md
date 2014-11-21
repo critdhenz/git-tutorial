@@ -5,14 +5,14 @@ requests](https://www.atlassian.com/git/tutorials/making-a-pull-request).
 #### 1. Fork Donal's repo on GitHub
 
 Use the Bitbucket interface to fork
-https://bitbucket.org/jbarrozo/git-tutorials to your
+https://bitbucket.org/cynder/git-tutorial to your
 GitHub account.
 
 #### 2. Clone your new repo to your computer
 
 From the command line:
 ```
-git clone git@bitbucket.org:<your_bitbucket_username>/git-tutorials.git
+git clone git@bitbucket.org:<your_bitbucket_username>/git-tutorial.git
 ```
 
 Now you have a working copy of the repository.
