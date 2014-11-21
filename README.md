@@ -1,7 +1,7 @@
 
 Modified workshop exercises for new incoming Cynder employees.
 
-[PDF of slides](slides/workshop.pdf)
+[PDF of slides](/src/[branch_name]/slides/workshop.pdf)
 
 TODO: Find out why the PDF didn't render!
 
