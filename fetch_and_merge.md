@@ -7,13 +7,13 @@ git remote -v
 
 This should show that you have one remote, something like:
 ```
-origin  git@github.com:<your_github_username>/jsconf-asia-2014-git-and-github-workshop.git (fetch)
-origin  git@github.com:<your_github_username>/jsconf-asia-2014-git-and-github-workshop.git (push)
+origin  git@bitbucket.org:<your_bitbucket_username>/git-tutorials.git (fetch)
+origin  git@bitbucket.org:<your_bitbucket_username>/git-tutorials.git (push)
 ```
 
 #### 2. Add `project` as a new remote
 ```
-git remote add project git@github.com:donal/jsconf-asia-2014-git-and-github-workshop.git
+git remote add project git@bitbucket.org:jbarrozo/git-tutorials.git
 ```
 
 *Donal says*: There's nothing special about the "origin" name (or the "project"
@@ -26,10 +26,10 @@ git remote -v
 
 This should show that you now have two remotes, something like:
 ```
-origin  git@github.com:<your_github_username>/jsconf-asia-2014-git-and-github-workshop.git (fetch)
-origin  git@github.com:<your_github_username>/jsconf-asia-2014-git-and-github-workshop.git (push)
-project git@github.com:donal/jsconf-asia-2014-git-and-github-workshop.git (fetch)
-project git@github.com:donal/jsconf-asia-2014-git-and-github-workshop.git (push)
+origin  git@bitbucket.org:<your_bitbucket_username>/git-tutorials.git (fetch)
+origin  git@bitbucket.org:<your_bitbucket_username>/git-tutorials.git (push)
+project git@bitbucket.org:jbarrozo/git-tutorials.git (fetch)
+project git@bitbucket.org:jbarrozo/git-tutorials.git (push)
 ```
 
 *Donal asks*: What will happen if you try to push to the `project` remote?
