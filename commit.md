@@ -1,11 +1,11 @@
 
 Following on from [branching](branch.md) (in other words, you want to do this
-exercise on you `<your_bitbucket_username>-asks-a-question` branch):
+exercise on you `<your_github_username>-asks-a-question` branch):
 
 #### 1. Write a question
 
 In the `student-questions` directory, write a file named
-`<your_bitbucket_username>-workshop-question.md` and ask a question in that file!
+`<your_github_username>-workshop-question.md` and ask a question in that file!
 
 *Donal says*: The file suffix `.md` stands for
 [Markdown](http://daringfireball.net/projects/markdown/). The
@@ -34,7 +34,7 @@ git diff
 
 #### 4. Add file to staging
 ```
-git add student-questions/<your_bitbucket_username>-workshop-question.md
+git add student-questions/<your_github_username>-workshop-question.md
 ```
 
 Then:
@@ -68,6 +68,6 @@ Will show that the file is "committed".
 
 #### 7. Push your question file to GitHub
 ```
-git push origin <your_bitbucket_username>-asks-a-question
+git push origin <your_github_username>-asks-a-question
 ```
 

@@ -45,11 +45,7 @@ Will show you which file(s) have conflicts.
 
 Edit the `README.md` file. You'll see something like:
 ```
-<<<<<<< HEAD
-Modified workshop exercises for new incoming employees.
-=======
 Modified workshop exercises for new incoming Cynder employees.
->>>>>>> origin/master
 ```
 
 It's up to you to decide what is the correct version that you want to keep.

@@ -7,13 +7,13 @@ git remote -v
 
 This should show that you have one remote, something like:
 ```
-origin  git@bitbucket.org:<your_bitbucket_username>/git-tutorial.git (fetch)
-origin  git@bitbucket.org:<your_bitbucket_username>/git-tutorial.git (push)
+origin  git@github.com:<your_github_username>/git-tutorial.git (fetch)
+origin  git@github.com:<your_github_username>/git-tutorial.git (push)
 ```
 
 #### 2. Add `project` as a new remote
 ```
-git remote add project git@bitbucket.org:cynder/git-tutorial.git
+git remote add project git@github.com:CynderTech/git-tutorial.git
 ```
 
 *Donal says*: There's nothing special about the "origin" name (or the "project"
@@ -26,10 +26,10 @@ git remote -v
 
 This should show that you now have two remotes, something like:
 ```
-origin  git@bitbucket.org:<your_bitbucket_username>/git-tutorial.git (fetch)
-origin  git@bitbucket.org:<your_bitbucket_username>/git-tutorial.git (push)
-project git@bitbucket.org:cynder/git-tutorial.git (fetch)
-project git@bitbucket.org:cynder/git-tutorial.git (push)
+origin  git@github.com:<your_github_username>/git-tutorial.git (fetch)
+origin  git@github.com:<your_github_username>/git-tutorial.git (push)
+project git@github.com:CynderTech/git-tutorial.git (fetch)
+project git@github.com:CynderTech/git-tutorial.git (push)
 ```
 
 *Donal asks*: What will happen if you try to push to the `project` remote?

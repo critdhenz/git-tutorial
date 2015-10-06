@@ -2,17 +2,17 @@
 See [Using pull
 requests](https://www.atlassian.com/git/tutorials/making-a-pull-request).
 
-#### 1. Fork Donal's repo on GitHub
+#### 1. Fork Cynder's repo on GitHub
 
-Use the Bitbucket interface to fork
-https://bitbucket.org/cynder/git-tutorial to your
+Use the Github interface to fork
+https://github.com/CynderTech/git-tutorial to your
 GitHub account.
 
 #### 2. Clone your new repo to your computer
 
 From the command line:
 ```
-git clone git@bitbucket.org:<your_bitbucket_username>/git-tutorial.git
+git clone git clone git@github.com:<your_github_username>/git-tutorial.git
 ```
 
 Now you have a working copy of the repository.
